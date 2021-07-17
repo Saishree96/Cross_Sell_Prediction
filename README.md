@@ -1,2 +1,4 @@
 # Cross_Sell_Prediction
 Our client is an Insurance company that has provided Health Insurance to its customers now they need our help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
+Well, we are all aware of what Insurance policy is. Insurance policy is a kind of arrangement provided by a company through which a guarantee of compensation is provided for specified loss in return for the payment of a specified person. A premium is a sum of money that the customer needs to pay regularly to an insurance company for this guarantee.
+So, we have to build a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue. 
